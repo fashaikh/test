@@ -46,7 +46,7 @@
     },
     "databaseName": {
       "type": "string",
-      "defaultValue": "wordpressDB",
+      "defaultValue": "hackdemoDB",
       "metadata": {
         "description": "The name of the new database to create."
       }
